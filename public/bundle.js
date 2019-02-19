@@ -17609,7 +17609,8 @@ let determinedSize = input => {
 
 let reset = document.querySelector("#reset");
 reset.addEventListener("click", () => {
-  let numberPerRow = prompt("How many squares per side would you like?");
+  let numberPerRow = prompt("How many squares per side would you like? Please enter a number.");
+
   let totalSquares = () => numberPerRow * numberPerRow;
   let sketch = document.querySelector("#sketch");
   while (sketch.hasChildNodes()) {
