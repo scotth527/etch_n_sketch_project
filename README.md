@@ -1,3 +1,19 @@
+# Etch-n-sketch
+
+A etch-n-sketch app that allows user to draw by hovering over the tile. Can switch to a party mode where colors are random. Also can set the number of squares in the grid. Built with dom manipulation, bootstrap, HTML, and CSS. 
+
+![Etch-n-sketch](./example.gif)
+
+## Live App: [https://github.com/scotth527/etch_n_sketch_project](https://github.com/scotth527/etch_n_sketch_project)
+
+Built from the 4GeeksAcademy vanillajs boilerplate here: [https://github.com/4GeeksAcademy/vanillajs-hello] (https://github.com/4GeeksAcademy/vanillajs-hello)
+
+
+
+
+
+
+
 # Hello World with Vanilla JS
 
 > Requirements: Make sure you have node version 8
