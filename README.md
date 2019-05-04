@@ -6,7 +6,7 @@ A etch-n-sketch app that allows user to draw by hovering over the tile. Can swit
 
 ## Live App: [https://github.com/scotth527/etch_n_sketch_project](https://github.com/scotth527/etch_n_sketch_project)
 
-Built from the 4GeeksAcademy vanillajs boilerplate here: [https://github.com/4GeeksAcademy/vanillajs-hello] (https://github.com/4GeeksAcademy/vanillajs-hello)
+Built from the 4GeeksAcademy vanillajs boilerplate here: [https://github.com/4GeeksAcademy/vanillajs-hello](https://github.com/4GeeksAcademy/vanillajs-hello)
 
 
 
