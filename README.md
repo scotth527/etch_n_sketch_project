@@ -10,10 +10,6 @@ Built from the 4GeeksAcademy vanillajs boilerplate here: [https://github.com/4Ge
 
 
 
-
-
-
-
 # Hello World with Vanilla JS
 
 > Requirements: Make sure you have node version 8
